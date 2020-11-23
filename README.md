@@ -2,6 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD - Festplatte im Root ZFS Pool wechseln](https://www.hagen-bauer.de/2020/11/zfs-root-pool-disk-replacement.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
